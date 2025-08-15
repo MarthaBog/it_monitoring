@@ -1,4 +1,4 @@
-# BigBank Assignment
+# Assignment
 
 ## To Do:
 
